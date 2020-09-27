@@ -21,3 +21,10 @@ A triple triad card is a unique 4 sided card with Values ranging from 1 to A
 being the weakest and strongest respectively. The goal of the game is to "capture"
 your opponent's cards by placing a higher value side adjacent to an opponent's placed card.
 The person with the most amount of captured cards when the 9 slot board is full wins the game.
+
+In order to play simply double click the card you wish to play then double click the spot you wish
+to place the card. Note that Player 1 is always on the right side and Player 2 the left.
+
+## Credits
+All original art and concepts are property of Square Enix. 
+Image sprites are taken from [Video Game Sprites](http://www.videogamesprites.net/)
