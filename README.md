@@ -3,7 +3,7 @@ v.1.0.0
 Original Author: KeagenT
 A fun Java implementation of Triple Triad.
 This was in exercise in OOP Programming and Design
-as well as custom data structures.
+written for an early programming class.
 I hope you learn something useful from it!
 
 ## Compiling and running Triple Triad
@@ -16,6 +16,7 @@ This requires the JDK version of Java 8+ in order to use the javac command.
 
 ## How to play
 This version of triple triad uses the default and open rules.
+![Triple Triad Demo](Triple Triad.gif)
 
 A triple triad card is a unique 4 sided card with Values ranging from 1 to A 
 being the weakest and strongest respectively. The goal of the game is to "capture"
