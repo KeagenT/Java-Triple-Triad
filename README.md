@@ -16,10 +16,10 @@ This requires the JDK version of Java 8+ in order to use the javac command.
 
 ## How to play
 This version of triple triad uses the default and open rules.
-![Triple Triad Demo](Triple Triad.gif)
+![Triple Triad Demo](https://raw.githubusercontent.com/KeagenT/Java-Triple-Triad/master/Triple%20Triad.gif)
 
 A triple triad card is a unique 4 sided card with Values ranging from 1 to A 
-being the weakest and strongest respectively. The goal of the game is to "capture"
+being the weakest and strongest respectively. The goal of the game is to a "capture"
 your opponent's cards by placing a higher value side adjacent to an opponent's placed card.
 The person with the most amount of captured cards when the 9 slot board is full wins the game.
 
